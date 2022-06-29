@@ -1,2 +1,2 @@
 # FMATCOMP
- My home assignments for Fundamentals of Matrix Computions. HSE AMI
+ My home assignments for Fundamentals of Matrix Computations. HSE AMI
